@@ -1,18 +1,16 @@
 {
    "$schema":"http://json-schema.org/draft-07/schema#",
    "description":"Kraken sample degree verifiable credential sample",
-   "credentialSubject":{
-      "type":"object",
-      "properties":{
-         "id":{
-            "type":"string"
-         },
-         "degreeType":{
-            "type":"string"
-         },
-         "degreeName":{
-            "type":"string"
-         }
+   "type":"object",
+   "properties":{
+      "id":{
+         "type":"string"
+      },
+      "degreeType":{
+         "type":"string"
+      },
+      "degreeName":{
+         "type":"string"
       }
    }
 }
