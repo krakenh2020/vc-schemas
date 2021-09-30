@@ -1,0 +1,24 @@
+{
+   "$schema":"http://json-schema.org/draft-07/schema#",
+   "description":"Kraken sample degree verifiable credential",
+   "credentialSubject":{
+      "type":"object",
+      "properties":{
+         "name":{
+            "type":"string",
+            "description":"Name"
+         },
+         "surname":{
+            "type":"string",
+            "description":"Surname"
+         },
+         "taxCode":{
+            "type":"string",
+            "description":"Tax code"
+         }
+      }
+   },
+   "required":[
+      "name"
+   ]
+}
