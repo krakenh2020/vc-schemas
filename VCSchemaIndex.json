@@ -4,7 +4,7 @@
         { 
             "name": "SampleDegree",
             "ID": "SampleKRAKENDegree",
-            "url" : "https://github.com/krakenh2020/vc-schemas/blob/main/2-draft-07_DegreeVCSchema.json"
+            "url" : "https://raw.githubusercontent.com/krakenh2020/vc-schemas/main/DegreeVCSchema.json"
         }
     ]
 }
