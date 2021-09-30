@@ -5,6 +5,12 @@
             "name": "SampleDegree",
             "ID": "SampleKRAKENDegree",
             "url" : "https://raw.githubusercontent.com/krakenh2020/vc-schemas/main/DegreeVCSchema.json"
+        },
+        { 
+            "name": "SamplePerson",
+            "ID": "SampleKRAKENPerson",
+            "url" : "https://raw.githubusercontent.com/krakenh2020/vc-schemas/main/PersonVCSchema.json"
         }
+        
     ]
 }
